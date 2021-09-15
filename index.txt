@@ -2,3 +2,6 @@ Git rebase
 Feature
 New feature
 New super feature
+!!!
+***
+&&&
